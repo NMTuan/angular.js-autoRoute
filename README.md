@@ -7,3 +7,5 @@
 特别是eval这玩意.啥时候才会引发安全问题?
 
 欢迎fork 欢迎各种issues
+
+[http://my.oschina.net/nmtuan/blog/283342]
